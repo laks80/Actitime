@@ -16,6 +16,7 @@ public class UserModule extends BaseClass{
 	public void testc()
 	{
 		System.out.println("hello");
+		system.out.println("world");
 		Reporter.log("This is test c");
 	}
 	/*public void createUser() throws InterruptedException, IOException
